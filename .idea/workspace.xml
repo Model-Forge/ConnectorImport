@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="422919c4-ff5b-4074-a76a-eb23dc282398" name="Changes" comment="Initial commit for the project">
+      <changelist_data name="Jason Aepli" email="" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConnectorImportPlugin User Guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/BrowserAddScopeAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/BrowserAddScopeConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/BrowserRemoveScopeAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/BrowserRemoveScopeConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/ConnectorTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/ElementGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/InterconnectSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/MainMenuAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/MainMenuConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/Wire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/XLSXExportFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/XLSXImportFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/gui/ImportProgressDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/gui/MainDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/gui/MainPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectorImportPlugin/ConnectorImportTool/gui/MainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ConnectorImportPlugin User Guide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ConnectorImportPlugin-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/plugin.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jason Aepli" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2P0JHrlV2SZEm6vs8qH1caWds9F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jcaep/OneDrive/Documents/GitHub/ConnectorImportTool&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="422919c4-ff5b-4074-a76a-eb23dc282398" name="Changes" comment="" />
+      <created>1682587984413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682587984413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Initial commit for the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for the project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

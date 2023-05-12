@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+        id="ConnectorTool"
+        name="Connector Tool Plugin"
+        version="1.0"
+        provider-name="Jason Aepli"
+        class="ConnectorImportPlugin.ConnectorImportTool.ConnectorTool">
+
+    <requires>
+        <api version="1.2"/>
+    </requires>
+
+    <runtime>
+        <library name="ConnectorImportPlugin-1.0.0.jar"/>
+    </runtime>
+</plugin>
